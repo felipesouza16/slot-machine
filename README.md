@@ -31,5 +31,5 @@ Instale as dependências
 Inicie o servidor
 
 ```bash
-  npm dev || yarn dev
+  npm run dev || yarn dev
 ```
